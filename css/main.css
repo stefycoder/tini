@@ -1,0 +1,97 @@
+.laboratoria{
+	background-color:#FCCE09;
+	background-size: cover;
+	height: 640px;
+	color: white;
+}
+.col-4 .centro{
+	font-size: 40px;
+	font-weight: bold;
+	margin-top: 300px;
+	text-align: center;
+}
+.col-4 .centr1{
+	font-size: 15px;
+	text-align: center;
+}
+.sum{
+	border:1px solid #FCB738;
+	background-color: #FCB738;
+	margin-top: 40px;
+	padding: 10px;
+	width: 100px;
+	font-size: 20px;
+	text-align: center;
+}
+nav ul{
+	list-style: none;
+	margin-top: 20px;
+}
+.nave ul li a{
+	text-decoration: none;
+	float: left;
+	font-size: 14px;
+	padding: 12px;
+	color: #FFF8B0;
+}
+.cuadros{
+	background-color:#EAEAE8;
+	background-size: cover;
+	height: 1100px;
+}
+.ejercicio1{
+	width: 420px;
+	height: 500px;
+	background-color: white;
+	margin-top: 40px;
+	text-align: center;
+}
+.dentro{
+	width: 300px;
+	height: 300px;
+	background-color: #CCCCCC;
+	position: relative;
+	left: 60px;
+	top: 20px;
+	text-align: center;
+}
+.dentro h1{
+	position: relative;
+	font-weight: bolder;
+	font-size: 25px;
+	top: 125px;
+	color:#999999;
+	font-family: 'Roboto',sans-serif;
+}
+.ejercicio1 h2{
+	text-align: left;
+	padding: 10px;
+	margin-top: 20px;
+	font-size: 30px;
+	color: #8B8C86;
+}
+.ejercicio1 .bac{
+	text-align: left;
+	padding-left: 20px;
+	color: #CECECC;
+}
+.lee{
+	border:1px solid #FCB738;
+	background-color: #FCB738;
+	color: #ffffff;
+	padding: 5px;
+	width: 140px;
+	font-size: 20px;
+	margin-left: 130px;
+	margin-top: 10px;
+}
+footer{
+	background-color: #323230;
+	height: 80px;
+}
+footer p{
+	color :white;
+	font-size: 12px;
+	padding-top: 40px;
+	margin-left: 210px;
+}
